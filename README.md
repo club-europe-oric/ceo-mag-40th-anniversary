@@ -6,9 +6,9 @@ Special Edition of CEO-MAG, Oric 40th Anniversary
 | Planning | Timeline |
 | 15/12 fin des évaluations | 15/12 closure of evaluations on oric.org |
 | 31/1 magazine published epub & pdf format | 31/1 publication date |
-| | |
+
 | Rejoignez l'équipe de rédaction | Join Writer's team |
-| | |
+|-----|-----|
 | Tous les volontaires sont les bienvenus | All volunteers are welcome to contribute |
 | avec des tests, des informations, | with tests, informations |
 | des graphismes et des copies d'écran | screenshots and graphs |
