@@ -2,6 +2,7 @@ Liste des meilleurs jeux pour chaque année de 1983 à 2022
 Version du 1/11/2022
 
 | Année | Titre | Note |
+|-----|-----|-----|
 | 1983 | Defence force | 4,19 |
 | 1984 | doggy | 4,02 |
 | 1985 | Manic Miner | 4.05333 |

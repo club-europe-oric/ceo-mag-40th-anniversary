@@ -2,6 +2,7 @@ Liste des 10 meilleurs softwares (hors jeux)
 Version du 1/11/2022
 
 | Title | Year | Ranking |
+|-----|-----|-----|
 | Oricomms | 0 | 4.83333 |
 | Joystick Adapter II | 1984 | 4.66667 |
 | Joystick Adapter I | 1984 | 4.66667 |
