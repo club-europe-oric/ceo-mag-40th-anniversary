@@ -1,7 +1,7 @@
-Liste des 10 meilleurs jeux pour Oric
+Top 10 Oric Games
 Version 1/11/2022
 
-| Pos | Titre | Année | Note | 
+| Pos | Title | Year | Note | 
 |-----|----------|:-------------:|------:| 
 | 001 | Bocco's Adventures | 2019 | 4.67 |
 | 002 | Oricium| 2014 | 4.62 |
