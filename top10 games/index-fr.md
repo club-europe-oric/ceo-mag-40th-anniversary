@@ -1,8 +1,8 @@
 Liste des 10 meilleurs jeux pour Oric
 Version 1/11/2022
 
-| Pos | Titre | Année | Note | 
-|-----|----------|:-------------:|------:| 
+| Pos | Titre | Année | Note |
+|-----|----------|:-------------:|------:|
 | 001 | Bocco's Adventures | 2019 | 4.67 |
 | 002 | Oricium| 2014 | 4.62 |
 | 003 | Blake's 7 | 2017 | 4.56 |
