@@ -1,5 +1,5 @@
-Top 10 Oric Games
-Version 1/11/2022
+Top 10 TAP Oric Games
+Version 1/11/2022 - To be reviewed
 
 | Pos | Title | Year | Note |
 |-----|----------|:-------------:|------:|
