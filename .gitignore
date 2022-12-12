@@ -1,7 +1,16 @@
 # Indesign
 *.indd
 *.idlk
+
 *.ai
 *.xlsx
+*.psd
+
+*.tap
+*.dsk
+*.zip
+
+# Directories
 _ceo/
 _40ans/
+_others/
